@@ -1,0 +1,38 @@
+# Actually a list of current working projects.
+# Used to hack my way to getting a sidebar I want.
+
+MaS:
+  name   : "Mark and Skyla"
+  avatar : "/assets/images/mark_and_skyla_img.jpg"
+  bio    : "A slice of life about a man and his quirky demon friend."
+  links:
+    - label: "Back to scene list"
+      icon: "fas fa-book-open"
+      url: "/mark-and-skyla/"
+
+MaS-toc:
+  name   : "Mark and Skyla"
+  avatar : "/assets/images/mark_and_skyla_img.jpg"
+  bio    : "A slice of life about a man and his quirky demon friend."
+  links:
+    - label: "Back to book list"
+      icon: "fas fa-book"
+      url: "/stories/"
+
+H2023:
+  name   : "Halloween 2023"
+  avatar : "/assets/images/halloween_img.jpg"
+  bio    : "A cozy Halloween short story about a young witch with a love for sweets."
+  links:
+    - label: "Back to scene list"
+      icon: "fas fa-book-open"
+      url: "/halloween-2023/"
+
+H2023-toc:
+  name   : "Halloween 2023"
+  avatar : "/assets/images/halloween_img.jpg"
+  bio    : "A cozy Halloween short story about a young witch with a love for sweets."
+  links:
+    - label: "Back to book list"
+      icon: "fas fa-book"
+      url: "/stories/"
