@@ -27,7 +27,7 @@ baseurl: "/writing"
 minimal_mistakes_skin: air #default
 teaser: "/assets/images/default_img.png"
 logo: "/assets/images/logo_white_rounded_small.png"
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
