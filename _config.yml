@@ -66,6 +66,7 @@ author:
   name   : "Evan Handy"
   avatar : "/assets/images/bio_img.png"
   bio    : "I love to write and share my ideas with others."
+  home   : "/about/"
   links:
     - label: "Story list"
       icon: "fas fa-book"
