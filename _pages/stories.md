@@ -17,4 +17,6 @@ Here you'll find links to all of my stories. Click on a link to go to a list of 
   [**Read story**]({{ story.permalink }})
 
   [![{{ story.title }}]({{ story.image }})]({{ story.permalink }})
+
+  _________________
 {% endfor %}
