@@ -2,7 +2,18 @@
   title: "Mark and Skyla"
   description: "A slice of life featuring a man and his quirky demon friend."
   image: "/writing/assets/images/mark_and_skyla_img.jpg"
+
 - permalink: /writing/halloween-2023/
   title: "Halloween 2023"
   description: "A cozy Halloween short story about a young witch with a love for sweets."
   image: "/writing/assets/images/halloween_img.jpg"
+
+- permalink: /writing/factory-cathedral-cultists/
+  title: "Factory Cathedral Cultists"
+  description: "A short story illustrating a scene that popped into my head one day."
+  image: "/writing/assets/images/factory_cathedral_cultists_img.jpg"
+
+- permalink: /writing/leshy-adventures/
+  title: "Leshy Adventures"
+  description: "A Pathfinder 2e fanfiction about two adorable forest creatures on a journey to climb the tallest mountain."
+  image: "/writing/assets/images/leshy_adventures_img.jpg"

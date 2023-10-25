@@ -15,7 +15,7 @@ MaS-toc:
   avatar : "/assets/images/mark_and_skyla_img.jpg"
   bio    : "A slice of life about a man and his quirky demon friend."
   links:
-    - label: "Back to book list"
+    - label: "Back to story list"
       icon: "fas fa-book"
       url: "/writing/stories/"
 
@@ -33,6 +33,42 @@ H2023-toc:
   avatar : "/assets/images/halloween_img.jpg"
   bio    : "A cozy Halloween short story about a young witch with a love for sweets."
   links:
-    - label: "Back to book list"
+    - label: "Back to story list"
+      icon: "fas fa-book"
+      url: "/writing/stories/"
+
+FCC:
+  name   : "Factory Cathedral Cultists"
+  avatar : "/assets/images/factory_cathedral_cultists_img.jpg"
+  bio    : "A short story illustrating a scene that popped into my head one day."
+  links:
+    - label: "Back to scene list"
+      icon: "fas fa-book-open"
+      url: "/writing/factory-cathedral-cultists/"
+
+FCC-toc:
+  name   : "Factory Cathedral Cultists"
+  avatar : "/assets/images/factory_cathedral_cultists_img.jpg"
+  bio    : "A short story illustrating a scene that popped into my head one day."
+  links:
+    - label: "Back to story list"
+      icon: "fas fa-book"
+      url: "/writing/stories/"
+
+LA:
+  name   : "Leshy Adventures"
+  avatar : "/assets/images/leshy_adventures_img.jpg"
+  bio    : "A Pathfinder 2e fanfiction about two adorable forest creatures on a journey to climb the tallest mountain."
+  links:
+    - label: "Back to scene list"
+      icon: "fas fa-book-open"
+      url: "/writing/leshy-adventures/"
+
+LA-toc:
+  name   : "Leshy Adventures"
+  avatar : "/assets/images/leshy_adventures_img.jpg"
+  bio    : "A Pathfinder 2e fanfiction about two adorable forest creatures on a journey to climb the tallest mountain."
+  links:
+    - label: "Back to story list"
       icon: "fas fa-book"
       url: "/writing/stories/"

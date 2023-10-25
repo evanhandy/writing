@@ -67,7 +67,7 @@ author:
   avatar : "/assets/images/bio_img.png"
   bio    : "I love to write and share my ideas with others."
   links:
-    - label: "Book list"
+    - label: "Story list"
       icon: "fas fa-book"
       url: "/writing/stories/"
     - label: "Recent scenes"
