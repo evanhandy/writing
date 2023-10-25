@@ -37,6 +37,24 @@ H2023-toc:
       icon: "fas fa-book"
       url: "/writing/stories/"
 
+SoM:
+  name   : "Seeds of Magic"
+  avatar : "/assets/images/seeds_of_magic_img.jpg"
+  bio    : "A story about a boy coming to understand his full potential in the midst of a year-long set of trials."
+  links:
+    - label: "Back to scene list"
+      icon: "fas fa-book-open"
+      url: "/writing/seeds-of-magic/"
+
+SoM-toc:
+  name   : "Seeds of Magic"
+  avatar : "/assets/images/seeds_of_magic_img.jpg"
+  bio    : "A story about a boy coming to understand his full potential in the midst of a year-long set of trials."
+  links:
+    - label: "Back to story list"
+      icon: "fas fa-book"
+      url: "/writing/stories/"
+
 FCC:
   name   : "Factory Cathedral Cultists"
   avatar : "/assets/images/factory_cathedral_cultists_img.jpg"

@@ -8,6 +8,11 @@
   description: "A cozy Halloween short story about a young witch with a love for sweets."
   image: "/writing/assets/images/halloween_img.jpg"
 
+- permalink: /writing/seeds-of-magic/
+  title: "Seeds of Magic"
+  description: "A story about a boy coming to understand his full potential in the midst of a year-long set of trials."
+  image: "/writing/assets/images/seeds_of_magic_img.jpg"
+
 - permalink: /writing/factory-cathedral-cultists/
   title: "Factory Cathedral Cultists"
   description: "A short story illustrating a scene that popped into my head one day."
