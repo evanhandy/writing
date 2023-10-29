@@ -7,6 +7,9 @@ MaS:
   bio    : "A slice of life about a man and his quirky demon friend."
   home   : "/mark-and-skyla/"
   links:
+    - label: "Back to story list"
+      icon: "fas fa-book"
+      url: "/writing/stories/"
     - label: "Back to scene list"
       icon: "fas fa-book-open"
       url: "/writing/mark-and-skyla/"
@@ -27,6 +30,9 @@ H2023:
   bio    : "A cozy Halloween short story about a young witch with a love for sweets."
   home   : "/halloween-2023/"
   links:
+    - label: "Back to story list"
+      icon: "fas fa-book"
+      url: "/writing/stories/"
     - label: "Back to scene list"
       icon: "fas fa-book-open"
       url: "/writing/halloween-2023/"
@@ -47,6 +53,9 @@ SoM:
   bio    : "A story about a boy coming to understand his full potential in the midst of a year-long set of trials."
   home   : "/seeds-of-magic/"
   links:
+    - label: "Back to story list"
+      icon: "fas fa-book"
+      url: "/writing/stories/"
     - label: "Back to scene list"
       icon: "fas fa-book-open"
       url: "/writing/seeds-of-magic/"
@@ -61,12 +70,38 @@ SoM-toc:
       icon: "fas fa-book"
       url: "/writing/stories/"
 
+CoA:
+  name   : "City of Aether"
+  avatar : "/assets/images/steampunk_img.jpg"
+  bio    : "A story about two kids from very different backgrounds in a steampunk city. One is a young inventor while the other is a magic user running away from a magical community."
+  home   : "/city-of-aether/"
+  links:
+    - label: "Back to story list"
+      icon: "fas fa-book"
+      url: "/writing/stories/"
+    - label: "Back to scene list"
+      icon: "fas fa-book-open"
+      url: "/writing/city-of-aether/"
+
+CoA-toc:
+  name   : "City of Aether"
+  avatar : "/assets/images/steampunk_img.jpg"
+  bio    : "A story about two kids from very different backgrounds in a steampunk city. One is a young inventor while the other is a magic user running away from a magical community."
+  home   : "/city-of-aether/"
+  links:
+    - label: "Back to story list"
+      icon: "fas fa-book"
+      url: "/writing/stories/"
+
 FCC:
   name   : "Factory Cathedral Cultists"
   avatar : "/assets/images/factory_cathedral_cultists_img.jpg"
   bio    : "A short story illustrating a scene that popped into my head one day."
   home   : "/factory-cathedral-cultists/"
   links:
+    - label: "Back to story list"
+      icon: "fas fa-book"
+      url: "/writing/stories/"
     - label: "Back to scene list"
       icon: "fas fa-book-open"
       url: "/writing/factory-cathedral-cultists/"
@@ -87,6 +122,9 @@ LA:
   bio    : "A Pathfinder 2e fanfiction about two adorable forest creatures on a journey to climb the tallest mountain."
   home   : "/leshy-adventures/"
   links:
+    - label: "Back to story list"
+      icon: "fas fa-book"
+      url: "/writing/stories/"
     - label: "Back to scene list"
       icon: "fas fa-book-open"
       url: "/writing/leshy-adventures/"
