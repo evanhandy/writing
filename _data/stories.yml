@@ -18,6 +18,11 @@
   description: "A story about two kids from very different backgrounds in a steampunk city. One is a young inventor while the other is a magic user running away from a magical community."
   image: "/writing/assets/images/steampunk_img.jpg"
 
+- permalink: /writing/everlong-manor/
+  title: "Stories from the Everlong Manor"
+  description: "A story about a boy who lives in a manor that goes on forever with no outside world."
+  image: "/writing/assets/images/everlong_manor_img.jpg"
+
 - permalink: /writing/factory-cathedral-cultists/
   title: "Factory Cathedral Cultists"
   description: "A short story illustrating a scene that popped into my head one day."

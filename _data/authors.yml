@@ -93,6 +93,29 @@ CoA-toc:
       icon: "fas fa-book"
       url: "/writing/stories/"
 
+EM:
+  name   : "Stories from the Everlong Manor"
+  avatar : "/assets/images/everlong_manor_img.jpg"
+  bio    : "A story about a boy who lives in a manor that goes on forever with no outside world."
+  home   : "/everlong-manor/"
+  links:
+    - label: "Back to story list"
+      icon: "fas fa-book"
+      url: "/writing/stories/"
+    - label: "Back to scene list"
+      icon: "fas fa-book-open"
+      url: "/writing/everlong-manor/"
+
+EM-toc:
+  name   : "Stories from the Everlong Manor"
+  avatar : "/assets/images/everlong_manor_img.jpg"
+  bio    : "A story about a boy who lives in a manor that goes on forever with no outside world."
+  home   : "/everlong-manor/"
+  links:
+    - label: "Back to story list"
+      icon: "fas fa-book"
+      url: "/writing/stories/"
+
 FCC:
   name   : "Factory Cathedral Cultists"
   avatar : "/assets/images/factory_cathedral_cultists_img.jpg"
