@@ -5,24 +5,23 @@ categories: [DND]
 author: DND
 ---
 
-The fire of faith,
+*The fire of faith,*
 
-Within me it burns.
+*Within me it burns.*
 
-The gear of truth,
+*The gear of truth,*
 
-Within me it turns.
+*Within me it turns.*
 
-Through battle and blood,
+*Through battle and blood,*
 
-Through ice, sand, or mud,
+*Through ice, sand, or mud,*
 
-My faith will not grow cold,
+*My faith will not grow cold,*
 
-Nor my truth turn old.
+*Nor my truth turn old.*
 
-I am—
-
+*I am—*
 
 “Brother Kaephis!” a stern voice said, bringing me out of my thoughts. “We’re arriving soon, are you ready?”
 
@@ -66,7 +65,7 @@ The circle broke, Barakiel headed for the captain’s quarters, while the rest o
 
 “Hello, Sister Claria,” I said, “I presume the flight back was uneventful?”
 
-She hurried to join our group. “I just got back. It’s not even funny how short work you guys make of the Fallen. It’s like they’re made of dry straw. Just, FWOOOSH and they’re gone!”
+She hurried to join our group. “I just got back. It’s not even funny how short work you guys make of the Fallen. It’s like they’re made of dry straw. Just, *FWOOOSH* and they’re gone!”
 
 I nodded, smiling underneath my helmet. Claria’s casual speech was common among the pilots, even though Barakiel frowned upon it. I personally found it refreshing.
 
@@ -98,23 +97,22 @@ I was glad my helmet hid my grin as I watched the two disciples go at each other
 
 The rest of the day passed, filled with good food and pleasant company, easing the weight of battle and responsibility on our shoulders. Bidding farewell to my comrades, I retired to my chambers. Doffing my armor, I knelt at my bedside.
 
+*The fire of faith,*
 
-The fire of faith,
+*Within me it burns.*
 
-Within me it burns.
+*The gear of truth,*
 
-The gear of truth,
+*Within me it turns.*
 
-Within me it turns.
+*Through battle and blood,*
 
-Through battle and blood,
+*Through ice, sand, or mud,*
 
-Through ice, sand, or mud,
+*My faith will not grow cold,*
 
-My faith will not grow cold,
+*Nor my truth turn old.*
 
-Nor my truth turn old.
+*I am a child of the Forge,*
 
-I am a child of the Forge,
-
-Forge Father bless me, so that I may bless others.
+*Forge Father bless me, so that I may bless others.*
