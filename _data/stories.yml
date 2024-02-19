@@ -3,11 +3,6 @@
   description: "A slice of life featuring a man and his quirky demon friend."
   image: "/writing/assets/images/mark_and_skyla_img.jpg"
 
-- permalink: /writing/halloween-2023/
-  title: "Halloween 2023"
-  description: "A cozy Halloween short story about a young witch with a love for sweets."
-  image: "/writing/assets/images/halloween_img.jpg"
-
 - permalink: /writing/seeds-of-magic/
   title: "Seeds of Magic"
   description: "A story about a boy coming to understand his full potential in the midst of a year-long set of trials."
@@ -22,6 +17,16 @@
   title: "Stories from the Everlong Manor"
   description: "A story about a boy who lives in a manor that goes on forever with no outside world."
   image: "/writing/assets/images/everlong_manor_img.jpg"
+
+- permalink: /writing/halloween-2023/
+  title: "Halloween 2023"
+  description: "A cozy Halloween short story about a young witch with a love for sweets."
+  image: "/writing/assets/images/halloween_img.jpg"
+
+- permalink: /writing/dnd-backstories/
+  title: "D&D Character Backstories"
+  description: "A collection of short stories I've written for various D&D characters of mine."
+  image: "/writing/assets/images/dnd_backstories_img.jpg"
 
 - permalink: /writing/factory-cathedral-cultists/
   title: "Factory Cathedral Cultists"

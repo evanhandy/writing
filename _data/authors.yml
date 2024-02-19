@@ -139,6 +139,29 @@ FCC-toc:
       icon: "fas fa-book"
       url: "/writing/stories/"
 
+DND:
+  name   : "D&D Character Backstories"
+  avatar : "/assets/images/dnd_backstories_img.jpg"
+  bio    : "A collection of short stories I've written for various D&D characters of mine."
+  home   : "/dnd-backstories/"
+  links:
+    - label: "Back to story list"
+      icon: "fas fa-book"
+      url: "/writing/stories/"
+    - label: "Back to scene list"
+      icon: "fas fa-book-open"
+      url: "/writing/dnd-backstories/"
+
+DND-toc:
+  name   : "D&D Character Backstories"
+  avatar : "/assets/images/dnd_backstories_img.jpg"
+  bio    : "A collection of short stories I've written for various D&D characters of mine."
+  home   : "/dnd-backstories/"
+  links:
+    - label: "Back to story list"
+      icon: "fas fa-book"
+      url: "/writing/stories/"
+
 LA:
   name   : "Leshy Adventures"
   avatar : "/assets/images/leshy_adventures_img.jpg"
