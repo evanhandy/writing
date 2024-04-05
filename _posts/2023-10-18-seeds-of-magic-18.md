@@ -7,7 +7,7 @@ author: SoM
 
 The sun was starting to set outside by the time Asher and his friends finished their third exam. According to the clock, it was almost five o’clock.
 
-“Great job, everyone,” Ms. Wyndham said. “If you would please leave your booklets on your tables, you may all go to dinner.”
+“Great job, everyone,” Ms. Wyndham said. “If you would please leave your booklets and your cards from the outdoor trials on your tables, you may all go to dinner.”
 
 Many applicants gave sighs of relief, and Asher and his friends got up to leave.
 
