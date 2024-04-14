@@ -11,7 +11,7 @@ Asher walked with his roommates down the hall towards their classroom.
 
 “Especially for being sized so g-generally,” Grover agreed.
 
-Asher nodded. After their eventful breakfast, they had all went to their next scheduled destination where they each received an official applicant robe. The robes were brown with an image of the Mother Tree embroidered on the front. Each robe was accompanied by a simple brown rope belt, which they tied around their waists. With their new robes worn over their shirts and trousers, Asher and the others headed towards the classroom where they had taken the written exams yesterday. As they walked, Asher noticed that most of the other applicants he saw walking the halls were now also wearing similar brown robes.
+Asher nodded. After their eventful breakfast, they had all gone to their next scheduled destination where they each received an official applicant robe. The robes were brown with an image of the Mother Tree embroidered on the front. Each robe was accompanied by a simple brown rope belt, which they tied around their waists. With their new robes worn over their shirts and trousers, Asher and the others headed towards the classroom where they had taken the written exams yesterday. As they walked, Asher noticed that most of the other applicants he saw walking the halls were now also wearing similar brown robes.
 
 “Do you think they’ll have us do more tests today?” Gale wondered.
 
