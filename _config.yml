@@ -24,7 +24,7 @@ url: "https://evanhandy.github.io"
 baseurl: "/writing"
 # twitter_username: username
 # github_username: username
-minimal_mistakes_skin: air #default
+minimal_mistakes_skin: dark #default, air
 teaser: "/assets/images/default_img.png"
 logo: "/assets/images/logo_white_rounded_small.png"
 search: false
@@ -63,10 +63,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Evan Handy"
-  avatar : "/assets/images/bio_img.png"
-  bio    : "I love to write and share my ideas with others."
-  home   : "/about/"
+  name: "Evan Handy"
+  avatar: "/assets/images/bio_img.png"
+  bio: "I love to write and share my ideas with others."
+  home: "/about/"
   links:
     - label: "Story list"
       icon: "fas fa-book"
@@ -118,7 +118,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-
 # category_archive:
 #   type: liquid
 #   path: /categories/
