@@ -3,6 +3,21 @@
   description: "A slice of life featuring a man and his quirky demon friend."
   image: "/writing/assets/images/mark_and_skyla_img.jpg"
 
+- permalink: /writing/mixie/
+  title: "Mixie Nibbleson and the Chimera Serum"
+  description: "A coming-of-age story about a young rat girl with a mysterious origin."
+  image: "/writing/assets/images/mixie_placeholder.webp"
+
+- permalink: /writing/journey-to-the-nexus/
+  title: "Journey to the Nexus"
+  description: "In a world infused with elemental power, two youths undertake a grand journey to save their village."
+  image: "/writing/assets/images/journy_to_the_nexus_placeholder.webp"
+
+- permalink: /writing/cyber-jex/
+  title: "Cyber-Jex"
+  description: "A cyberpunk tale of a young man who gets caught up in a plot larger than he is."
+  image: "/writing/assets/images/cyber_jex_placeholder.webp"
+
 - permalink: /writing/seeds-of-magic/
   title: "Seeds of Magic"
   description: "A story about a boy coming to understand his full potential in the midst of a year-long set of trials."

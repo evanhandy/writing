@@ -2,10 +2,10 @@
 # Used to hack my way to getting a sidebar I want.
 
 MaS:
-  name   : "Mark and Skyla"
-  avatar : "/assets/images/mark_and_skyla_img.jpg"
-  bio    : "A slice of life about a man and his quirky demon friend."
-  home   : "/mark-and-skyla/"
+  name: "Mark and Skyla"
+  avatar: "/assets/images/mark_and_skyla_img.jpg"
+  bio: "A slice of life about a man and his quirky demon friend."
+  home: "/mark-and-skyla/"
   links:
     - label: "Back to story list"
       icon: "fas fa-book"
@@ -15,20 +15,89 @@ MaS:
       url: "/writing/mark-and-skyla/"
 
 MaS-toc:
-  name   : "Mark and Skyla"
-  avatar : "/assets/images/mark_and_skyla_img.jpg"
-  bio    : "A slice of life about a man and his quirky demon friend."
-  home   : "/mark-and-skyla/"
+  name: "Mark and Skyla"
+  avatar: "/assets/images/mark_and_skyla_img.jpg"
+  bio: "A slice of life about a man and his quirky demon friend."
+  home: "/mark-and-skyla/"
+  links:
+    - label: "Back to story list"
+      icon: "fas fa-book"
+      url: "/writing/stories/"
+
+MNatCS:
+  name: "Mixie Nibbleson and the Chimera Serum"
+  avatar: "/assets/images/mixie_placeholder.webp"
+  bio: "A coming-of-age story about a young rat girl with a mysterious origin."
+  home: "/mixie/"
+  links:
+    - label: "Back to story list"
+      icon: "fas fa-book"
+      url: "/writing/stories/"
+    - label: "Back to scene list"
+      icon: "fas fa-book-open"
+      url: "/writing/mixie/"
+
+MNatCS-toc:
+  name: "Mixie Nibbleson and the Chimera Serum"
+  avatar: "/assets/images/mixie_placeholder.webp"
+  bio: "A coming-of-age story about a young rat girl with a mysterious origin."
+  home: "/mixie/"
+  links:
+    - label: "Back to story list"
+      icon: "fas fa-book"
+      url: "/writing/stories/"
+
+JttN:
+  name: "Journey to the Nexus"
+  avatar: "/assets/images/journy_to_the_nexus_placeholder.webp"
+  bio: "In a world infused with elemental power, two youths undertake a grand journey to save their village."
+  home: "/journey-to-the-nexus/"
+  links:
+    - label: "Back to story list"
+      icon: "fas fa-book"
+      url: "/writing/stories/"
+    - label: "Back to scene list"
+      icon: "fas fa-book-open"
+      url: "/writing/journey-to-the-nexus/"
+
+JttN-toc:
+  name: "Journey to the Nexus"
+  avatar: "/assets/images/journy_to_the_nexus_placeholder.webp"
+  bio: "In a world infused with elemental power, two youths undertake a grand journey to save their village."
+  home: "/journey-to-the-nexus/"
+  links:
+    - label: "Back to story list"
+      icon: "fas fa-book"
+      url: "/writing/stories/"
+
+CJ:
+  name: "Cyber-Jex"
+  avatar: "/assets/images/cyber_jex_placeholder.webp"
+  bio: "A cyberpunk tale of a young man who gets caught up in a plot larger than he is."
+  home: "/cyber-jex/"
+  links:
+    - label: "Back to story list"
+      icon: "fas fa-book"
+      url: "/writing/stories/"
+    - label: "Back to scene list"
+      icon: "fas fa-book-open"
+      url: "/writing/cyber-jex/"
+
+CJ-toc:
+  name: "Cyber-Jex"
+  avatar: "/assets/images/cyber_jex_placeholder.webp"
+  bio: "A cyberpunk tale of a young man who gets caught up in a plot larger than he is."
+  home: "/cyber-jex/"
   links:
     - label: "Back to story list"
       icon: "fas fa-book"
       url: "/writing/stories/"
 
 H2023:
-  name   : "Halloween 2023"
-  avatar : "/assets/images/halloween_img.jpg"
-  bio    : "A cozy Halloween short story about a young witch with a love for sweets."
-  home   : "/halloween-2023/"
+  name: "Halloween 2023"
+  avatar: "/assets/images/halloween_img.jpg"
+  bio: "A cozy Halloween short story about a young witch with a love for sweets."
+  home: "/halloween-2023/"
   links:
     - label: "Back to story list"
       icon: "fas fa-book"
@@ -38,20 +107,20 @@ H2023:
       url: "/writing/halloween-2023/"
 
 H2023-toc:
-  name   : "Halloween 2023"
-  avatar : "/assets/images/halloween_img.jpg"
-  bio    : "A cozy Halloween short story about a young witch with a love for sweets."
-  home   : "/halloween-2023/"
+  name: "Halloween 2023"
+  avatar: "/assets/images/halloween_img.jpg"
+  bio: "A cozy Halloween short story about a young witch with a love for sweets."
+  home: "/halloween-2023/"
   links:
     - label: "Back to story list"
       icon: "fas fa-book"
       url: "/writing/stories/"
 
 SoM:
-  name   : "Seeds of Magic"
-  avatar : "/assets/images/seeds_of_magic_img.jpg"
-  bio    : "A story about a boy coming to understand his full potential in the midst of a year-long set of trials."
-  home   : "/seeds-of-magic/"
+  name: "Seeds of Magic"
+  avatar: "/assets/images/seeds_of_magic_img.jpg"
+  bio: "A story about a boy coming to understand his full potential in the midst of a year-long set of trials."
+  home: "/seeds-of-magic/"
   links:
     - label: "Back to story list"
       icon: "fas fa-book"
@@ -61,20 +130,20 @@ SoM:
       url: "/writing/seeds-of-magic/"
 
 SoM-toc:
-  name   : "Seeds of Magic"
-  avatar : "/assets/images/seeds_of_magic_img.jpg"
-  bio    : "A story about a boy coming to understand his full potential in the midst of a year-long set of trials."
-  home   : "/seeds-of-magic/"
+  name: "Seeds of Magic"
+  avatar: "/assets/images/seeds_of_magic_img.jpg"
+  bio: "A story about a boy coming to understand his full potential in the midst of a year-long set of trials."
+  home: "/seeds-of-magic/"
   links:
     - label: "Back to story list"
       icon: "fas fa-book"
       url: "/writing/stories/"
 
 CoA:
-  name   : "City of Aether"
-  avatar : "/assets/images/steampunk_img.jpg"
-  bio    : "A story about two kids from very different backgrounds in a steampunk city. One is a young inventor while the other is a magic user running away from a magical community."
-  home   : "/city-of-aether/"
+  name: "City of Aether"
+  avatar: "/assets/images/steampunk_img.jpg"
+  bio: "A story about two kids from very different backgrounds in a steampunk city. One is a young inventor while the other is a magic user running away from a magical community."
+  home: "/city-of-aether/"
   links:
     - label: "Back to story list"
       icon: "fas fa-book"
@@ -84,20 +153,20 @@ CoA:
       url: "/writing/city-of-aether/"
 
 CoA-toc:
-  name   : "City of Aether"
-  avatar : "/assets/images/steampunk_img.jpg"
-  bio    : "A story about two kids from very different backgrounds in a steampunk city. One is a young inventor while the other is a magic user running away from a magical community."
-  home   : "/city-of-aether/"
+  name: "City of Aether"
+  avatar: "/assets/images/steampunk_img.jpg"
+  bio: "A story about two kids from very different backgrounds in a steampunk city. One is a young inventor while the other is a magic user running away from a magical community."
+  home: "/city-of-aether/"
   links:
     - label: "Back to story list"
       icon: "fas fa-book"
       url: "/writing/stories/"
 
 EM:
-  name   : "Stories from the Everlong Manor"
-  avatar : "/assets/images/everlong_manor_img.jpg"
-  bio    : "A story about a boy who lives in a manor that goes on forever with no outside world."
-  home   : "/everlong-manor/"
+  name: "Stories from the Everlong Manor"
+  avatar: "/assets/images/everlong_manor_img.jpg"
+  bio: "A story about a boy who lives in a manor that goes on forever with no outside world."
+  home: "/everlong-manor/"
   links:
     - label: "Back to story list"
       icon: "fas fa-book"
@@ -107,20 +176,20 @@ EM:
       url: "/writing/everlong-manor/"
 
 EM-toc:
-  name   : "Stories from the Everlong Manor"
-  avatar : "/assets/images/everlong_manor_img.jpg"
-  bio    : "A story about a boy who lives in a manor that goes on forever with no outside world."
-  home   : "/everlong-manor/"
+  name: "Stories from the Everlong Manor"
+  avatar: "/assets/images/everlong_manor_img.jpg"
+  bio: "A story about a boy who lives in a manor that goes on forever with no outside world."
+  home: "/everlong-manor/"
   links:
     - label: "Back to story list"
       icon: "fas fa-book"
       url: "/writing/stories/"
 
 FCC:
-  name   : "Factory Cathedral Cultists"
-  avatar : "/assets/images/factory_cathedral_cultists_img.jpg"
-  bio    : "A short story illustrating a scene that popped into my head one day."
-  home   : "/factory-cathedral-cultists/"
+  name: "Factory Cathedral Cultists"
+  avatar: "/assets/images/factory_cathedral_cultists_img.jpg"
+  bio: "A short story illustrating a scene that popped into my head one day."
+  home: "/factory-cathedral-cultists/"
   links:
     - label: "Back to story list"
       icon: "fas fa-book"
@@ -130,20 +199,20 @@ FCC:
       url: "/writing/factory-cathedral-cultists/"
 
 FCC-toc:
-  name   : "Factory Cathedral Cultists"
-  avatar : "/assets/images/factory_cathedral_cultists_img.jpg"
-  bio    : "A short story illustrating a scene that popped into my head one day."
-  home   : "/factory-cathedral-cultists/"
+  name: "Factory Cathedral Cultists"
+  avatar: "/assets/images/factory_cathedral_cultists_img.jpg"
+  bio: "A short story illustrating a scene that popped into my head one day."
+  home: "/factory-cathedral-cultists/"
   links:
     - label: "Back to story list"
       icon: "fas fa-book"
       url: "/writing/stories/"
 
 DND:
-  name   : "D&D Character Backstories"
-  avatar : "/assets/images/dnd_backstories_img.jpg"
-  bio    : "A collection of short stories I've written for various D&D characters of mine."
-  home   : "/dnd-backstories/"
+  name: "D&D Character Backstories"
+  avatar: "/assets/images/dnd_backstories_img.jpg"
+  bio: "A collection of short stories I've written for various D&D characters of mine."
+  home: "/dnd-backstories/"
   links:
     - label: "Back to story list"
       icon: "fas fa-book"
@@ -153,20 +222,20 @@ DND:
       url: "/writing/dnd-backstories/"
 
 DND-toc:
-  name   : "D&D Character Backstories"
-  avatar : "/assets/images/dnd_backstories_img.jpg"
-  bio    : "A collection of short stories I've written for various D&D characters of mine."
-  home   : "/dnd-backstories/"
+  name: "D&D Character Backstories"
+  avatar: "/assets/images/dnd_backstories_img.jpg"
+  bio: "A collection of short stories I've written for various D&D characters of mine."
+  home: "/dnd-backstories/"
   links:
     - label: "Back to story list"
       icon: "fas fa-book"
       url: "/writing/stories/"
 
 LA:
-  name   : "Leshy Adventures"
-  avatar : "/assets/images/leshy_adventures_img.jpg"
-  bio    : "A Pathfinder 2e fanfiction about two adorable forest creatures on a journey to climb the tallest mountain."
-  home   : "/leshy-adventures/"
+  name: "Leshy Adventures"
+  avatar: "/assets/images/leshy_adventures_img.jpg"
+  bio: "A Pathfinder 2e fanfiction about two adorable forest creatures on a journey to climb the tallest mountain."
+  home: "/leshy-adventures/"
   links:
     - label: "Back to story list"
       icon: "fas fa-book"
@@ -176,10 +245,10 @@ LA:
       url: "/writing/leshy-adventures/"
 
 LA-toc:
-  name   : "Leshy Adventures"
-  avatar : "/assets/images/leshy_adventures_img.jpg"
-  bio    : "A Pathfinder 2e fanfiction about two adorable forest creatures on a journey to climb the tallest mountain."
-  home   : "/leshy-adventures/"
+  name: "Leshy Adventures"
+  avatar: "/assets/images/leshy_adventures_img.jpg"
+  bio: "A Pathfinder 2e fanfiction about two adorable forest creatures on a journey to climb the tallest mountain."
+  home: "/leshy-adventures/"
   links:
     - label: "Back to story list"
       icon: "fas fa-book"
